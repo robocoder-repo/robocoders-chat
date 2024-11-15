@@ -31,3 +31,4 @@ Lorik Bajgora (https://github.com/CABLord)
 
 Make sure to keep your API access token secure and do not share it publicly.
 ## Last Updated: Fri Nov 15 15:43:04 UTC 2024
+## Thank you for using Robocoders.ai Chat Application!
