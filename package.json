@@ -1,0 +1,15 @@
+
+{
+  "name": "robocoders-chat",
+  "version": "1.0.0",
+  "description": "Interactive chat application using Robocoders.ai API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Lorik Bajgora",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
